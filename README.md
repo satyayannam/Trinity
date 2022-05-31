@@ -1,4 +1,4 @@
-# trinity
+# Trinity
  Hello I'm Trinity the virtual assistant, these are the tasks that I can perform:
   1. I can make some casual talks
   2. I can crack some jokes
