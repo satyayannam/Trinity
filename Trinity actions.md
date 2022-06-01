@@ -12,4 +12,7 @@
   10. I can suggest and provide some strong passwords inorder to provide security from hackers
   11. Phone number location provider is in progress
   12. I can play music
+  13. I can tell news
+  14. I can locate
+  15. 
  
