@@ -49,7 +49,7 @@ Hello, I'm Trinity, your virtual assistant developed in Python. Here's a list of
 ## How to Use:
 
 1. Clone the repository to your local machine.
-2. Run the `trinity.py` script using Python.
+2. Run the `main.py` script using Python.
 3. Follow on-screen instructions and commands.
 
 ## Note:
