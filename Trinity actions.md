@@ -14,5 +14,4 @@
   12. I can play music
   13. I can tell news
   14. I can locate
-  15. 
  
